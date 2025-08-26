@@ -14,4 +14,4 @@ Tujuan: memberikan insight dan rekomendasi strategi untuk meningkatkan penjualan
 3. Insight
 4. Recomendation
 
-Dataset: ![kaggle](mohammadtalib786/retail-sales-dataset)
+Dataset: ![kaggle]([mohammadtalib786/retail-sales-dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset))
